@@ -1,6 +1,0 @@
-The files in this folder include a child theme and the parent theme, the Runway framework.
-They must be used together if you choose to install this child theme.
-Using this combination to work in the Runway framework allows much more advanced development options including editing of the admin options and much more.
-It can be useful for a developer building a theme for a client wanting to customize the administrative interface or theme options. 
-
-For more information about the Runway framework: http://runwaywp.com
